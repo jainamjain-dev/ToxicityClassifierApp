@@ -1,0 +1,7 @@
+fastapi
+scikit-learn
+uvicorn
+numpy
+streamlit
+
+streamlit run D:\ToxicityClassifierApp\app.py
